@@ -1,2 +1,2 @@
-# CSA1613_DWDM
+# CSA1610_DWDM
 Lab Experiments - SLOT A
